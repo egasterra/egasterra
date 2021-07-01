@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egasterra
-- 👀 I’m interested in learning diferent topics about Dentistry ( true, I' m a dentist!) and Piano
+- 👀 I’m new here em Github and I'm learning yet how to use it.
 - 🌱 I’m currently learning in Fullstack Development of Santander..
 - 📫 How to reach me ...
 
