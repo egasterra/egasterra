@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @egasterra
 - 👀 I’m new here em Github and I'm learning yet how to use it.
-- 🌱 I’m currently learning in Fullstack Development of Santander..
 - 📫 How to reach me ...
 
 <!---
